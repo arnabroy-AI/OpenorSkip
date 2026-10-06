@@ -1,0 +1,6 @@
+{
+  "name": "OpenOrSkip — Newsletter Subject Line Decision Engine",
+  "description": "Test 2-3 newsletter subject lines against 40 niche founder personas in 15 seconds before you send. Fast structured open and skip counts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
